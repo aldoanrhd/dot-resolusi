@@ -1,0 +1,6 @@
+bla bla bla bla
+
+mastering :
+-php (ini buat backend)
+-js (kalo bisa 2 bulan)
+-vue js
