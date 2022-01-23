@@ -1,0 +1,2 @@
+# dot-resolusi
+Repositori rencana 
